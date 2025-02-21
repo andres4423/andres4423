@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm 20 years old and passionate about web and mobile development.<br>🤝 I enjoy working in teams and collaborating on innovative projects.<br>📚 I'm always eager to learn new technologies and methodologies to improve my skills.<br>
+🔭 I'm 21 years old and passionate about web, mobile development and cybersecurity.<br>🤝 I enjoy working in teams and collaborating on innovative projects.<br>📚 I'm always eager to learn new technologies and methodologies to improve my skills.<br>
 
 
 # 💻 Tech Stack:
